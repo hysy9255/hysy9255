@@ -58,10 +58,10 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Matplotlib-blue.svg?style=for-the-badge&logo=Matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-skyblue.svg?style=for-the-badge&logo=Seaborn&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-5C2D91.svg?style=for-the-badge&logo=NumPy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-5C2D91.svg?style=for-the-badge&logo=Pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit learn-5C2D91.svg?style=for-the-badge&logo=Scikit-Learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-skyblue.svg?style=for-the-badge&logo=Seaborn&logoColor=blue">
+  <img src="https://img.shields.io/badge/NumPy-white.svg?style=for-the-badge&logo=NumPy&logoColor=skyblue">
+  <img src="https://img.shields.io/badge/Pandas-white.svg?style=for-the-badge&logo=Pandas&logoColor=black">
+  <img src="https://img.shields.io/badge/Scikit learn-orange.svg?style=for-the-badge&logo=Scikit-Learn&logoColor=black">
 <div>
 </p>
 
