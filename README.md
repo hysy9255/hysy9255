@@ -35,7 +35,7 @@
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-white.svg?style=for-the-badge&logo=mysql&logoColor=green">
+  <img src="https://img.shields.io/badge/MySQL-white.svg?style=for-the-badge&logo=mysql&logoColor=blue">
   <img src="https://img.shields.io/badge/MongoDB-white.svg?style=for-the-badge&logo=mongodb&logoColor=green">
 </div>
 </p>
