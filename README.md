@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
   <img src="https://img.shields.io/badge/Medium-red.svg?style=for-the-badge&logo=medium&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Zoom-%23181717.svg?style=for-the-badge&logo=zoom&logoColor=white">	
+  <img src="https://img.shields.io/badge/Zoom-blue.svg?style=for-the-badge&logo=zoom&logoColor=white">	
 </div>
 </p>
 
