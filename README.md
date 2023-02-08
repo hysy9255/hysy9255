@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/-Stackexchange-blue?style=for-the-badge&logo=stack-exchange&logoColor=white">
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   <img src="https://img.shields.io/badge/Diagrams.net-white.svg?style=for-the-badge&logo=Diagrams.net&logoColor=orange">
-  <img src="https://img.shields.io/badge/Lucidchart-purple.svg?style=for-the-badge&logo=lucidchart&logoColor=white">  
+  <img src="https://img.shields.io/badge/Lucidchart-orange.svg?style=for-the-badge&logo=lucidchart&logoColor=white">  
 </div>
 </p>
 
