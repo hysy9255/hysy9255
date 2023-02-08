@@ -58,7 +58,7 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Matplotlib-5C2D91.svg?style=for-the-badge&logo=Matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikitlearn-5C2D91.svg?style=for-the-badge&logo=Scikit-Learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit learn-5C2D91.svg?style=for-the-badge&logo=Scikit-Learn&logoColor=white">
 <div>
 </p>
 
