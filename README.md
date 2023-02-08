@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![](https://github.com/hysy9255/hysy9255/blob/main/banner.gif)
+![](https://github.com/hysy9255/hysy9255/blob/main/banner_2.gif)
 
 
 
