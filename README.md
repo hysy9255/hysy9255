@@ -42,6 +42,7 @@
 <!--   <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Diagrams.net-white.svg?style=for-the-badge&logo=Diagrams.net&logoColor=orange">
+  <img src="https://img.shields.io/badge/Docker-white.svg?style=for-the-badge&logo=Docker&logoColor=blue">
 </div>
 </p>
 
