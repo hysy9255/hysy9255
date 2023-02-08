@@ -19,7 +19,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-F26624.svg?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/React-white.svg?style=for-the-badge&logo=react&logoColor=blue">
 </div>
 </p>
 
