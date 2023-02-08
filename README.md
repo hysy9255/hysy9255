@@ -78,7 +78,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Slack-purple.svg?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
-  <img src="https://img.shields.io/badge/Medium-red.svg?style=for-the-badge&logo=medium&logoColor=white">
+  <img src="https://img.shields.io/badge/Medium-white.svg?style=for-the-badge&logo=medium&logoColor=black">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Zoom-blue.svg?style=for-the-badge&logo=zoom&logoColor=white">	
 </div>
