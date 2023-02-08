@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/Diagrams.net-white.svg?style=for-the-badge&logo=Diagrams.net&logoColor=orange">
   <img src="https://img.shields.io/badge/Docker-white.svg?style=for-the-badge&logo=Docker&logoColor=blue">
   <img src="https://img.shields.io/badge/GitHub Actions-blue.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Google-blue.svg?style=for-the-badge&logo=google&logoColor=white">
 </div>
 </p>
 
