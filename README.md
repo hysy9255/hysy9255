@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Diagrams.net-white.svg?style=for-the-badge&logo=Diagrams.net&logoColor=orange">
   <img src="https://img.shields.io/badge/Docker-white.svg?style=for-the-badge&logo=Docker&logoColor=blue">
+  <img src="https://img.shields.io/badge/GitHub Actions-white.svg?style=for-the-badge&logo=githubactions&logoColor=blue">
 </div>
 </p>
 
