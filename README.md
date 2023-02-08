@@ -96,6 +96,7 @@
 <p>  
 <div align="center">
   <img src="https://img.shields.io/badge/Google-white.svg?style=for-the-badge&logo=google&logoColor=blue">
+  <img src="https://img.shields.io/badge/Google calendar-white.svg?style=for-the-badge&logo=Google calendar&logoColor=blue">
   <img src="https://img.shields.io/badge/Youtube-white.svg?style=for-the-badge&logo=youtube&logoColor=red">
   <img src="https://img.shields.io/badge/Spotify-green.svg?style=for-the-badge&logo=spotify&logoColor=white">
 </div>
