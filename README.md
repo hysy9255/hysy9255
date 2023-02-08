@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Diagrams.net-%23000000.svg?style=for-the-badge&logo=Diagrams.net&logoColor=orange">
+  <img src="https://img.shields.io/badge/Diagrams.net-white.svg?style=for-the-badge&logo=Diagrams.net&logoColor=orange">
 </div>
 </p>
 
