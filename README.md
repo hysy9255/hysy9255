@@ -48,21 +48,25 @@
 
 <p>
 <div align="center">
-<!--   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"> -->
-<!--   <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"> -->
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-purple.svg?style=for-the-badge&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Diagrams.net-white.svg?style=for-the-badge&logo=Diagrams.net&logoColor=orange">
+  <img src="https://img.shields.io/badge/Lucid Chart-purple.svg?style=for-the-badge&logo=lucidchart&logoColor=white">  
 </div>
 </p>
 
-<p>  
+<p>
 <div align="center">
+  <img src="https://img.shields.io/badge/Slack-purple.svg?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
   <img src="https://img.shields.io/badge/Medium-red.svg?style=for-the-badge&logo=medium&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Zoom-%23181717.svg?style=for-the-badge&logo=zoom&logoColor=white">	
+</div>
+</p>
+
+  
+<p>  
+<div align="center">
   <img src="https://img.shields.io/badge/Google-blue.svg?style=for-the-badge&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/Youtube-blue.svg?style=for-the-badge&logo=youtube&logoColor=white">
   <img src="https://img.shields.io/badge/Spotify-purple.svg?style=for-the-badge&logo=spotify&logoColor=white">
