@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Spring-red.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-red.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Medium-red.svg?style=for-the-badge&logo=medium&logoColor=white">
+  <img src="https://img.shields.io/badge/yaml-red.svg?style=for-the-badge&logo=yaml&logoColor=white">
 </div>
 </p>
 
