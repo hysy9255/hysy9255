@@ -26,10 +26,10 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Express-white.svg?style=for-the-badge&logo=express&logoColor=green">
-  <img src="https://img.shields.io/badge/Spring-red.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/gradle-red.svg?style=for-the-badge&logo=gradle&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-white.svg?style=for-the-badge&logo=spring&logoColor=green">
+  <img src="https://img.shields.io/badge/gradle-white.svg?style=for-the-badge&logo=gradle&logoColor=green">
   <img src="https://img.shields.io/badge/junit-red.svg?style=for-the-badge&logo=junit&logoColor=white">
-  <img src="https://img.shields.io/badge/Jest-purple.svg?style=for-the-badge&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/Jest-white.svg?style=for-the-badge&logo=jest&logoColor=red">
 </div>
 </p>
 
