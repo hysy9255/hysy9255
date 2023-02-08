@@ -11,8 +11,15 @@
   <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
   <img src="https://img.shields.io/badge/TypeScript-red.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Java-red.svg?style=for-the-badge&logo=java&logoColor=white">
+
+</div>
+</p>
+
+<p>
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-F26624.svg?style=for-the-badge&logo=react&logoColor=white">
 </div>
 </p>
 
@@ -50,7 +57,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   <img src="https://img.shields.io/badge/Diagrams.net-white.svg?style=for-the-badge&logo=Diagrams.net&logoColor=orange">
-  <img src="https://img.shields.io/badge/Lucid Chart-purple.svg?style=for-the-badge&logo=lucidchart&logoColor=white">  
+  <img src="https://img.shields.io/badge/Lucidchart-purple.svg?style=for-the-badge&logo=lucidchart&logoColor=white">  
 </div>
 </p>
 
