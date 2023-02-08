@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/gradle-white.svg?style=for-the-badge&logo=gradle&logoColor=green">
   <img src="https://img.shields.io/badge/junit-red.svg?style=for-the-badge&logo=junit&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-white.svg?style=for-the-badge&logo=jest&logoColor=red">
+  <img src="https://img.shields.io/badge/Supertest-white.svg?style=for-the-badge&logo=supertest&logoColor=green">
 </div>
 </p>
 
