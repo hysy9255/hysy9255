@@ -88,7 +88,7 @@
 <p>  
 <div align="center">
   <img src="https://img.shields.io/badge/Google-blue.svg?style=for-the-badge&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/Youtube-blue.svg?style=for-the-badge&logo=youtube&logoColor=red">
+  <img src="https://img.shields.io/badge/Youtube-white.svg?style=for-the-badge&logo=youtube&logoColor=red">
   <img src="https://img.shields.io/badge/Spotify-green.svg?style=for-the-badge&logo=spotify&logoColor=white">
 </div>
 </p>
