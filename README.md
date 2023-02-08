@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-%23181717.svg?style=for-the-badge&logo=amazonaws&logoColor=white">	
   <img src="https://img.shields.io/badge/Zoom-%23181717.svg?style=for-the-badge&logo=zoom&logoColor=white">	
-  <img src="https://img.shields.io/badge/Terminal-%23181717.svg?style=for-the-badge&logo=Terminal&logoColor=white">	
+  <img src="https://img.shields.io/badge/gitbash-%23181717.svg?style=for-the-badge&logo=gitbash&logoColor=white">	
 </div>
 </p>
 
