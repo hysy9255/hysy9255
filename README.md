@@ -50,6 +50,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/JetBrains-5C2D91.svg?style=for-the-badge&logo=jetbrains&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Pycharm-0078d7.svg?style=for-the-badge&logo=Pycharm&logoColor=white">
+  <img src="https://img.shields.io/badge/Google Colab-0078d7.svg?style=for-the-badge&logo=googlecolab&logoColor=white">
 </div>
 </p>
 
