@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/hysy9255/hysy9255/blob/main/banner.gif)
+![](https://github.com/hysy9255/hysy9255/blob/main/banner.gif)
 
 
 
