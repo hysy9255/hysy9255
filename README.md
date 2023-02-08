@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/TypeScript-red.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Medium-red.svg?style=for-the-badge&logo=medium&logoColor=white">
   <img src="https://img.shields.io/badge/junit-red.svg?style=for-the-badge&logo=junit&logoColor=white">
+  <img src="https://img.shields.io/badge/gradle-red.svg?style=for-the-badge&logo=gradle&logoColor=white">
 </div>
 </p>
 
