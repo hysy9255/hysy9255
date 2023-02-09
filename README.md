@@ -5,20 +5,21 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+형준.;I+love+Coffee.;I+love+Coding.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
 </p>
 
+
 <p>
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="44" height="44" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="44" height="44" />
-  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="44" height="44" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="44" height="44" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="86" height="86" />
 </div>
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="44" height="44" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="44" height="44" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="44" height="44" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="44" height="44" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="44" height="44" />
+ <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="86" height="86" />
 </div>
 </p>
 
