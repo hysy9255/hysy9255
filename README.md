@@ -108,7 +108,6 @@
 
 <br/>
 <p align="left">
-  <a href="http://torrinleonard.com/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hysy9255&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hysy9255&theme=radical&hide_border=true">		  
   </a>
