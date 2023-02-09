@@ -6,7 +6,8 @@
 </p>
 
 <p>
-<div style="display: flex; justify-content:center;">
+<!-- <div style="display: flex; justify-content:center;"> -->
+<div align="center">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="44" height="44" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="44" height="44" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="44" height="44" />
