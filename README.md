@@ -10,7 +10,22 @@
 | <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="63" height="63" /></div> |
  -->
 
-<div style="display: flex; align-items: flex-start; justify-content: center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="44" height="44" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="44" height="44" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="44" height="44" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="44" height="44" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="44" height="44" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="44" height="44" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="44" height="44" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="44" height="44" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="44" height="44" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="44" height="44" /></div>
+<div style = "justify-content: center;"> 
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="44" height="44" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="44" height="44" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="44" height="44" />
+  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="44" height="44" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="44" height="44" />
+</div>
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="44" height="44" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="44" height="44" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="44" height="44" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="44" height="44" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="44" height="44" />
+</div>
+</div>
 
 <p>
 <div align="center">
