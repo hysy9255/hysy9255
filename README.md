@@ -6,14 +6,14 @@
 </p>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content:center;">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="44" height="44" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="44" height="44" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="44" height="44" />
   <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="44" height="44" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="44" height="44" />
 </div>
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content:center;">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="44" height="44" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="44" height="44" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="44" height="44" />
