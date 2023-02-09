@@ -105,6 +105,16 @@
 </p>
 
 
+<br/>
+<p align="left">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=torrinworx&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torrinworx&theme=radical&hide_border=true">		  
+  </a>
+</p>
+<br>
+
+
 <!--
 **hysy9255/hysy9255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
