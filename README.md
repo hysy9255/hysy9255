@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+형준.;I+love+Coffee.;I+love+Coding.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
 </p>
 
-
+<p>
 <div style="display: flex; justify-content:center;">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="44" height="44" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="44" height="44" />
@@ -20,6 +20,7 @@
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="44" height="44" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="44" height="44" />
 </div>
+</p>
 
 <p>
 <div align="center">
