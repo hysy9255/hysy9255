@@ -8,7 +8,6 @@
 
 <p>
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="86" height="86" />
