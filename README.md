@@ -8,9 +8,11 @@
 
 <p>
 <div align="center">
-|GitHub|TypeScript|JavaScript|Jest|Prettier|
-| :--: | :--: | :--: | :--: | :--: |
-|<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" />|<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" />|<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" />|<img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="86" height="86" />|<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="86" height="86" />|
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="86" height="86" />
 </div>
 <div align="center">
  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="86" height="86" />
