@@ -56,7 +56,8 @@
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-white.svg?style=for-the-badge&logo=mysql&logoColor=blue">
+  <img src="https://img.shields.io/badge/MySQL-white.svg?style=for-the-badge&logo=mysql&logoColor=blue">  
+  <img src="https://img.shields.io/badge/Postgresql-white.svg?style=for-the-badge&logo=postgresql&logoColor=blue">
   <img src="https://img.shields.io/badge/MongoDB-white.svg?style=for-the-badge&logo=mongodb&logoColor=green">
 </div>
 </p>
