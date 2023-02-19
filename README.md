@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/HTTPie-white?style=for-the-badge&logo=HTTPie&logoColor=blue">
   <img src="https://img.shields.io/badge/Docker-white.svg?style=for-the-badge&logo=Docker&logoColor=blue">
-  <img src="https://img.shields.io/badge/DockerHub-white.svg?style=for-the-badge&logo=DockerHub&logoColor=blue">
+  <img src="https://img.shields.io/badge/Docker Hub-white.svg?style=for-the-badge&logo=DockerHub&logoColor=blue">
   <img src="https://img.shields.io/badge/GitHub Actions-blue.svg?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Terminal-%23181717.svg?style=for-the-badge&logo=Terminal&logoColor=white">	
 </div>
@@ -82,6 +82,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Pycharm-green.svg?style=for-the-badge&logo=Pycharm&logoColor=black">
   <img src="https://img.shields.io/badge/Google Colab-white.svg?style=for-the-badge&logo=googlecolab&logoColor=orange">
+  <img src="https://img.shields.io/badge/Jupiter Notebook-white.svg?style=for-the-badge&logo=JupiterNotebook&logoColor=orange">
 </div>
 </p>
 
